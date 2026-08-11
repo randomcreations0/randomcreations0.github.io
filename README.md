@@ -5,7 +5,6 @@
 A daily word ladder puzzle game. Transform the START word into the TARGET word by changing exactly one letter at a time. Every intermediate word must be a valid English word.
 
 ## How to Play
-a
 1. You're given a **START** word and a **TARGET** word of the same length
 2. Change exactly one letter to form a new valid English word
 3. Keep going until you reach the TARGET word
