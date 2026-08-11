@@ -112,4 +112,4 @@ Every player on the same date receives the exact same puzzle, regardless of brow
 
 ## License
 
-This project is open source. Feel free to use, modify, and distribute.
+Copyright © randomcreations0
