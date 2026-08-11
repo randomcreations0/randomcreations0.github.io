@@ -112,4 +112,26 @@ Every player on the same date receives the exact same puzzle, regardless of brow
 
 ## License
 
-Copyright © randomcreations0
+Copyright © 2026 randomcreations0
+
+Wordshift is open source and may be freely used, copied, modified, and redistributed, provided that **credit is given to the original creator, randomcreations0**.
+
+You may:
+
+* Use the code for personal or commercial projects
+* Copy and modify the code
+* Create and distribute derivative versions
+* Host your own version of Wordshift
+* Include portions of the code in other projects
+
+### Attribution Requirement
+
+If you use, copy, modify, or redistribute substantial portions of Wordshift, you must credit the original creator:
+
+> **Wordshift by randomcreations0**
+
+You must retain this copyright and attribution notice in copies or substantial portions of the software.
+
+You may not claim the original Wordshift project or its original code as your own.
+
+This software is provided "as is", without warranty of any kind. The original creator is not responsible for any damages or issues arising from its use.
